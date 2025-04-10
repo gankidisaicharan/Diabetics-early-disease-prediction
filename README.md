@@ -92,6 +92,12 @@ The dataset contains clinical and demographic information of patients including:
 - joblib
 
 ---
+## 📂 Project Structure
+├── DiabetesEarlyPrediction.ipynb     # Main notebook with all code
+├── diabetes_prediction_dataset.csv   # Dataset file
+├── XGBoost.pkl                       # Trained model file
+├── requirements.txt                  # Dependencies
+├── README.md                         # Project documentation
 
 
 
