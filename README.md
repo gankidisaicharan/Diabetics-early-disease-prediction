@@ -80,3 +80,18 @@ The dataset contains clinical and demographic information of patients including:
 
 - The final **XGBoost model** is exported using `joblib` for deployment:
   joblib.dump(model, 'XGBoost.pkl')
+---
+
+## 🧠 Tech Stack
+
+- Python
+- pandas, numpy, matplotlib, seaborn
+- scikit-learn
+- xgboost
+- imbalanced-learn
+- joblib
+
+---
+
+
+
